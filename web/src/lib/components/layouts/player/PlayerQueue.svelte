@@ -114,7 +114,7 @@
   .track {
     display: flex;
     flex-direction: row;
-    gap: var(--space-s);
+    gap: 12px;
   }
 
   .left {
